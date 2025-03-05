@@ -1,16 +1,19 @@
-Clone this repo
+Clone this repo<br/>
+<br/>
+<br/>
 
+Navigate to ./client<br/>
+npm i<br/>
+npm run dev<br/>
+<br/>
+<br/>
 
-Navigate to ./client
-npm i
-npm run dev
+Navigate to ./backend<br/>
+npm i<br/>
+npm run start<br/>
 
-
-Navigate to ./backend
-npm i
-npm run start
-
-
+<br/>
+<br/>
 
 Go to http://localhost:3008
 
